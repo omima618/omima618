@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omima618&label=Profile%20views&color=0e75b6&style=flat" alt="omima618" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js, Node.js, and MongoDB**
 
-- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap5, Tailwind.CSS, JavaScript, React, Redux, Redux toolkit, Next.js, Node.js, MongoDB, Firebase, Angular, Typescript**
+- 💬 Ask me about **HTML, CSS, SCSS, Bootstrap5, Tailwind.CSS, JavaScript, React, Redux, Redux toolkit, Next.js, Node.js, MongoDB, Firebase, Angular, and Typescript**
 
 - 📫 How to reach me **omima.khaled.330@gamil.com**
 
