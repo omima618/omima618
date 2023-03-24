@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omima618&label=Profile%20views&color=0e75b6&style=flat" alt="omima618" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Node.js, and MongoDB**
+- 👨‍💻 All of my projects are available at [https://omima618.github.io/my-portfolio/](https://omima618.github.io/my-portfolio/)
 
 - 💬 Ask me about **HTML, CSS, SCSS, Bootstrap5, Tailwind.CSS, JavaScript, React, Redux, Redux toolkit, Next.js, Node.js, MongoDB, Firebase, Angular, and Typescript**
 
 - 📫 How to reach me **omima.khaled.330@gamil.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1O7NYj5FK19_idVtW7yZxT5fTfPwcOvM9/view?usp=sharing](https://drive.google.com/file/d/1O7NYj5FK19_idVtW7yZxT5fTfPwcOvM9/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ytNcuE4onMS3lkSQi7mYIqXOOPwflTX2/view?usp=sharing](https://drive.google.com/file/d/1ytNcuE4onMS3lkSQi7mYIqXOOPwflTX2/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
